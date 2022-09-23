@@ -1,0 +1,1 @@
+Guido Van Rossum criou o Python em 1989. Ele trabalhava no Centrum Voor Wiskunde en Informatica no início dos anos 1980, e seu trabalho era implementar a linguagem de programação conhecida como ABC.
